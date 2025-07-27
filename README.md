@@ -64,12 +64,12 @@ Required for **message-based commands and content analysis** features.
 1. **Ban Command with Member Selection**
    - Shows member dropdown populated with server members
    - Demonstrates need for member list access
-   ![Ban Command](https://raw.githubusercontent.com/demondevx/Intent-Usage/main/Screenshots/ban-command.png)
+   ![Ban Command](https://raw.githubusercontent.com/demondevx/Intent-Usage/main/Screenshots/ban-command.png.png)
 
 2. **User Info Command**
    - Displays member roles, join date, and permissions
    - Shows detailed member information access
-   ![User Info Command](https://raw.githubusercontent.com/demondevx/Intent-Usage/main/Screenshots/userinfo-command.png)
+   ![User Info Command](https://raw.githubusercontent.com/demondevx/Intent-Usage/main/Screenshots/userinfo-command.png.png)
 
 3. **Add Role Command**
    - Member selection dropdown for role assignment
