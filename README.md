@@ -74,6 +74,7 @@ Required for **message-based commands and content analysis** features.
 3. **Add Role Command**
    - Member selection dropdown for role assignment
    - Shows member management functionality
+   - ---
    ![Add Role Command](https://raw.githubusercontent.com/demondevx/Intent-Usage/main/Screenshots/addrole-command.png)
 
 #### Presence Intent:
