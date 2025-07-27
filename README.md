@@ -62,35 +62,35 @@ Required for **message-based commands and content analysis** features.
 
 #### Server Members Intent:
 1. **Ban Command with Member Selection**
-   ![Ban Command]([screenshots/ban-command.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/ban-command.png.png))
    - Shows member dropdown populated with server members
    - Demonstrates need for member list access
+   ![Ban Command](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/ban-command.png)
 
 2. **User Info Command**
-   ![User Info Command]([screenshots/userinfo-command.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/userinfo-command.png.png))
    - Displays member roles, join date, and permissions
    - Shows detailed member information access
+   ![User Info Command](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/userinfo-command.png)
 
 3. **Add Role Command**
-   ![Add Role Command]([screenshots/addrole-command.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/addrole-command.png))
    - Member selection dropdown for role assignment
    - Shows member management functionality
+   ![Add Role Command](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/addrole-command.png)
 
 #### Presence Intent:
 4. **Status Command**
-   ![Status Command]([screenshots/status-command.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/status-command.png))
-   ![Set Status Command]([screenshots/status-command.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/Status-command1.png))
    - Shows member online status and activity
    - Demonstrates presence tracking features
+   ![Status Command](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/status-command.png)
+   ![Set Status Command](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/Status-command1.png)
 
 5. **Activity Monitoring**
-   ![Activity Monitoring]([screenshots/activity-monitoring.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/activity-command.png))
    - Shows member activity and presence information
    - Demonstrates status tracking capabilities
+   ![Activity Monitoring](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/activity-command.png)
 
 #### Message Content Intent:
 6. **Prefix Commands**
-   ![Prefix Commands]([screenshots/prefix-commands.png](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/prefix-commands.png))
+   ![Prefix Commands](https://github.com/demondevx/Intent-Usage/blob/main/Screenshots/prefix-commands.png)
    - Shows message-based commands working
    - Demonstrates message content access for prefix commands
 
@@ -212,7 +212,7 @@ module.exports = {
 ## 📞 Contact Information
 
 **Bot Owner:** demondev_
-**Support Server:** [[Your Support Server Link] ](https://discord.gg/XNDvZaFWpt) 
+**Support Server:** [[Crytx Support Server] ](https://discord.gg/XNDvZaFWpt) 
 **GitHub:** demondevx
 
 ---
