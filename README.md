@@ -56,7 +56,10 @@ Required for **message-based commands and content analysis** features.
 - **`!poll`** - Prefix-based polling system
 - **`!warn`** - Prefix-based warning system
 
+
 ## 📸 Screenshots & Demonstrations
+
+*Note: Screenshots were taken using a test bot with approved intents. The main Crytx bot requires Discord intent approval for full functionality.*
 
 ### Screenshots showing different intent requirements:
 
